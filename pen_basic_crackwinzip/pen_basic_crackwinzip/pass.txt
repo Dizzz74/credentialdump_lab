@@ -1,0 +1,201 @@
+Chair
+Table
+Sofa
+Bed
+Wardrobe
+Cabinet
+Bookshelf
+Desk
+Stool
+Dresser
+Bench
+Couch
+Rocking chair
+Armchair
+Coffee table
+Nightstand
+Sideboard
+Recliner
+Ottoman
+Loveseat
+Spoon
+Fork
+Knife
+Plate
+Bowl
+Cup
+Mug
+Glass
+Teapot
+Pan
+Pot
+Kettle
+Cutting board
+Blender
+Toaster
+hello
+Microwave
+Oven
+Refrigerator
+Freezer
+Rolling pin
+Lamp
+Clock
+Mirror
+Fan
+Vacuum cleaner
+Broom
+Mop
+Bucket
+Curtain
+Blanket
+Pillow
+Mattress
+Rug
+Carpet
+Hanger
+Iron
+Ironing board
+Laundry basket
+Trash bin
+Door handle
+Television
+Computer
+Laptop
+Smartphone
+Tablet
+Camera
+Headphones
+Speaker
+Printer
+Mouse
+Keyboard
+Monitor
+Remote control
+Charger
+Projector
+Flash drive
+Router
+Modem
+Hard drive
+Microphone
+Pen
+Pencil
+Notebook
+Eraser
+Ruler
+Sharpener
+Marker
+Highlighter
+Glue
+Scissors
+Compass
+Protractor
+Calculator
+Backpack
+Binder
+Stapler
+Paperclip
+Whiteboard
+Chalk
+Crayons
+Wallet
+Purse
+Bag
+Sunglasses
+Watch
+Belt
+Necklace
+Bracelet
+Earrings
+Comb
+Hairbrush
+Toothbrush
+Razor
+Nail clipper
+Soap
+Shampoo
+Towel
+Perfume
+Makeup
+Umbrella
+Doll
+Teddy bear
+Puzzle
+Kite
+Toy car
+Ball
+Action figure
+Board game
+Lego
+Yo-yo
+Marbles
+Rubik’s cube
+Slingshot
+Frisbee
+Hula hoop
+Balloon
+Skipping rope
+Train set
+Puppet
+Blocks
+Hammer
+Screwdriver
+Wrench
+Saw
+Drill
+Tape measure
+Level
+Pliers
+Chisel
+Screw
+Nail
+Bolt
+Sandpaper
+Ladder
+Toolbox
+Crowbar
+Glue gun
+Wire cutter
+Socket wrench
+Paintbrush
+Tent
+Sleeping bag
+Backpack
+Camping stove
+Lantern
+Compass
+Binoculars
+Fishing rod
+Tarp
+Cooler
+Water bottle
+Thermos
+Picnic basket
+Hiking boots
+Folding chair
+Grill
+Garden hose
+Shovel
+Rake
+Lawn mower
+Sink
+Bathtub
+Shower
+Toilet
+Soap dispenser
+Toothbrush holder
+Bath mat
+Towel rack
+Hairdryer
+Shaving cream
+Shampoo bottle
+Conditioner
+Loofah
+Toilet brush
+Plunger
+Bathroom scale
+Faucet
+Razor blade
+Tissue box
+Desk
